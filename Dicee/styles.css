@@ -1,0 +1,54 @@
+h1{
+    margin: 30px;
+    font-family: Trebuchet MS,Lucida Grande,Lucida Sans Unicode,Lucida Sans,Tahoma,sans-serif;
+  text-shadow: 5px 0 #232931;
+  font-size: 6rem;
+  color: #08d9d6;
+  text-align: center;
+}
+
+p{
+    font-size: 2rem;
+    font-family: 'Indie Flower', cursive;
+    color: #08d9d6;
+}
+body{
+    background-color: #252a34;
+}
+footer{
+    font-size: 1rem;
+    
+
+}
+.container {
+    width: 70%;
+    margin: auto;
+    text-align: center;
+  }
+
+.dice{
+    display: inline-block;
+    text-align: center;
+    padding: 1rem;
+    
+}
+
+.img{
+    width: 80%;
+}
+
+footer {
+    margin-top: 5%;
+    color: #eaeaea;
+    text-align: center;
+    font-family: 'Indie Flower', cursive;
+  
+  }
+  
+  .refresh{
+       
+        color: #252a34;
+        padding: 0.2rem;
+       
+          }
+  
